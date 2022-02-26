@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryall and condemnation of Mr. John Cooke, sollicitor to the late High-court of injustice. And Mr. Hugh Peters, that carnall prophet, for their several high-treasons, &amp;c. At the Sessions-house in the Old-baily, on Saturday the 13. of October, 1660. Together with, their several pleas, and the answers thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74264</idno>
+            <idno type="STC">Thomason E1046_6</idno>
+            <idno type="EEBO-CITATION">50922810</idno>
+            <idno type="OCLC">ocm 50922810</idno>
+            <idno type="VID">173093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173093)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1046[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryall and condemnation of Mr. John Cooke, sollicitor to the late High-court of injustice. And Mr. Hugh Peters, that carnall prophet, for their several high-treasons, &amp;c. At the Sessions-house in the Old-baily, on Saturday the 13. of October, 1660. Together with, their several pleas, and the answers thereunto.</title>
+                  <author>Peters, Hugh, 1598-1660.</author>
+                  <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex)</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Stafford and Edward Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Assassination.</term>
+               <term>Cook, John, d. 1660 --  Trials, litigation, etc.</term>
+               <term>Peters, Hugh, 1598-1660 --  Trials, litigation, etc.</term>
+               <term>Regicides --  Great Britain --  Early works to 1800.</term>
+               <term>Trials (Murder) --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173093:1" rendition="simple:additions"/>
+            <p>THE TRYALL AND CONDEMNATION OF Mr. JOHN COOKE, Sollicitor to the late <hi>High-court of Injuſtice.</hi> AND M<hi rend="sup">r</hi>. HUGH PETERS, <hi>that carnall Prophet.</hi>
+            </p>
+            <p>For their ſeverall High-treaſons, &amp;c.</p>
+            <p>At the <hi>Seſſions-houſe</hi> in the <hi>Old-baily,</hi> on Saturday the 13. of <hi>October,</hi> 1660.</p>
+            <p>
+               <hi>Together with,</hi> Their ſeverall <hi>Pleas,</hi> and the <hi>Anſwers</hi> thereunto.</p>
+            <q>
+               <bibl>
+                  <hi>PROVERBS 25. V. 5.</hi>
+               </bibl> Take away the wicked from before the King, and His Throne ſhall be eſtabliſhed in righteouſneſs.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Stafford</hi> and <hi>Edward Thomas.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="trial_account">
+            <pb facs="tcp:173093:2"/>
+            <pb n="3" facs="tcp:173093:2"/>
+            <p>ON <hi>Saturday</hi> the 13th of <hi>October,</hi> The Kings Lords Juſtices for Tryal of thoſe Traytors who took away the Life of the King called to the Bar.</p>
+            <p>
+               <hi>Mr. John Cook Solicitor to the High Court of In<g ref="char:EOLhyphen"/>juſtice.</hi>
+            </p>
+            <p>
+               <hi>Mr. Hugh Peters the Grand Impoſtor and Deſigner of that wicked Act.</hi>
+            </p>
+            <p>After the Jury was Sworn and the Indictment Read, The Kings Council, ſpake as followeth.</p>
+            <p>Gent. of the Jury, The Priſoner at the Bar ſtands Indicted that he with others did Imagine and Contrive the Death of the King our Late Soveraigne of ever bleſſed Memory: The circumſtances of the Indictment is onely to ſhew that they ſate as Judges for the Trying, Sentencing and Condemning his ſaid Late Majeſty.</p>
+            <p>And the priſoner at the Bar as a Wicked Inſtrument ſtood by, and ſet his Hand to a Wicked Libel, charging his Majeſty with Murder, High Treaſon <hi>&amp;c.</hi> He makes a large diſcourſe te prove In<g ref="char:EOLhyphen"/>nocency it ſelf guilty of high Treaſon; he is the Man that would not ſuffer the <hi>King</hi> to ſpeak, he interrupts him in what he had to ſay, he moved the Court that if he would not plead it ſhould be taken <hi>pro confeſſo.</hi> He preſt the Court for Judgement: was angry with them becauſe they admitted of delayes, he preſt the court for Judgement, &amp; afterwards demanded Sentence thereupon, And he was the man that did it againſt his conſcience, for he ſaid that the King was a Wiſe and a Gracious Prince, but that he muſt Dye and Monarchy with him, And before we have done my Lord we ſhall prove his Treaſon and the reward of his Iniquity.</p>
+            <p>The VVitneſſes are called and Sworn to this effect.</p>
+            <p>That he Exhibited a Charge of High Treaſon againſt the King.</p>
+            <p>That he moved in caſe the <hi>King</hi> would not plead the matters in the charge ſhould be taken <hi>pro confeſſo.</hi>
+            </p>
+            <p>That he demanded Judgement of the court and ſaid that the blood that had been ſpilt cryed for it.</p>
+            <p>
+               <pb n="4" facs="tcp:173093:3"/>That he did not only demand but ſeveral times preſ<g ref="char:EOLhyphen"/>ſed that Judgement might be given.</p>
+            <p>Laſtly, And that he was angry that the Court did not proceed to give Sentence.</p>
+            <p>After ſeverall Circumſtances between the Priſoner and the Court, the Priſoner ſtood up and ſpake as fol<g ref="char:EOLhyphen"/>foweth.</p>
+            <p>
+               <hi>My LORD,</hi>
+            </p>
+            <p>I may ſay as <hi>Paul</hi> ſpeaks in the <hi>Acts</hi> of the <hi>Apoſtles, Againſt the Law and Againſt Caeſar,</hi> I hope I have not Of<g ref="char:EOLhyphen"/>fended. The Matters which are charged againſt me do conſiſt in a Narrow compaſſe; the ſubſtance where<g ref="char:EOLhyphen"/>of I conceive will come within the three heads follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="1">1. <hi>That I with others did Imagine, Conſult and Contrive the Kings Death.</hi>
+            </p>
+            <p n="2">2. <hi>That for the perfecting of that Conſpiracy I with others did aſſume Power and Authority over the King.</hi>
+            </p>
+            <p n="3">3. <hi>That there was a Perſon unknown that did Cut off the Kings Head, and that I was Aiding, Abetting, Aſſiſting, and Comforting the Perſon that did the ſame.</hi>
+            </p>
+            <p>
+               <hi>My Lord,</hi> I have very few words to offer for my ſelf, and therefore I hope the Court will give me Liberty. If it appear that I did never <hi>Propound, Conſult, Adviſe, At<g ref="char:EOLhyphen"/>tempt, Imagine, or any way Council the Death of his Late Majeſty,</hi> then I hope I ſhall not be found <hi>Guilty.</hi>
+            </p>
+            <p>
+               <hi>My Lord,</hi> I was appointed together with Doctor <hi>Do<g ref="char:EOLhyphen"/>riſleus</hi> and <hi>Mr. Aske</hi> to conſider and contrive a Charge a<g ref="char:EOLhyphen"/>gainſt the <hi>King,</hi> and had an Order ſent me to that pur<g ref="char:EOLhyphen"/>poſe: now my Lord I conceive that it cannot be ſaid that I did that Malicioufly which I was Required and had an Order to do, I Acting in my Sphear as a Counſellour and no otherwiſe, and not exceeding the bounds of that aforeſaid Order.</p>
+            <p>
+               <pb n="5" facs="tcp:173093:3"/>The next thing I deſire to plead to, my Lord, that words will not amount to High Treaſon, (and words is all that I am taxed with) words may declare a man to be a Heretick but not a Traytor, but it is objected that I put that Treaſon into writing.</p>
+            <p>To which my Lord I anſwer, whether there be any full proofe that I ſet my hand to that Charge? that which I writ was only after another as it was Dictated to me, &amp; although the Words were Treaſon in themſelves, yet I onely writing them after another that ſpeaks them, I hope it will not be accounted Treaſon in me, conſidering that Treaſon comes from a traiterous Heart and a ſecret imagination to do the Act.</p>
+            <p>The next thing is this my Lord, it is ſaid that I prayed the Juſtice of the Court againſt the King, I hope my Lord that that very thing cannot be called Treaſon, for if the word be conſidered in the plain Legal Genuine and conſpicuous interpretation it will bear no other con<g ref="char:EOLhyphen"/>ſtruction then this [that whereas thoſe Gentlemen brought the King to the Bar it was prayed by me that they would do him Juſtice, I hope it will appear that I have good council, and that I did not exceed the bounds of my imployment. I put no other words within that Charge, but what was within the Order which Autho<g ref="char:EOLhyphen"/>rized that Court. Now my Lord if I only proceeded ac<g ref="char:EOLhyphen"/>cording to the merit of the cauſe, and declared onely in general that it ſhould be according to Juſtice, and that muſt be according to Law. I hope, my Lord, that where a double conſtruction may be made of the words the moſt favourable may be interpreted for me, eſpecially ſince where there is a deſire of doing Ju<g ref="char:EOLhyphen"/>ſtice there can be no intention of injuſtice, for my Lord if juſtice be demanded, and injuſtice done thereupon, I could not any way help it.</p>
+            <p>
+               <pb n="6" facs="tcp:173093:4"/>I ſay, my Lord, there is a double conſtruction of the words, [demanding Juſtice or Judgement; a judgement of acquittal and of condemnation.] Now my Lord, if thoſe that were intruſted with that buſineſſe knew no Law to take away his Majeſties Life, and I only deman<g ref="char:EOLhyphen"/>ding their judgement, did not give mine; and I appeal to thoſe Learned Gentlemen that are ſkil'd in the Law, whether they have not been ſorry when a Cauſe hath gone on their Clients ſide when they have found the cauſe wrong; and ſo was I in this:</p>
+            <p>Again my Lord, I deſire your Lordſhip to conſider that his Majeſties condition at that time was very ſad, as being a Priſoner, under Force of an Army <hi>&amp;c.</hi> I hope my Lord, that my drawing up a Charge againſt him adviſedly, was rather a ſervice to him then a diſſervice, in regard that to make his Tryal the more ſpeedy was to deſire his Releaſment, as knowing no Law to detain him; and therefore to pray proceedings according to juſtice, was but to deſire his Diſcharge, which I hope will beget in your Lordſhips a better reputation of me then a Traytor.</p>
+            <p>He proceeded to this purpoſe much longer, urging, that words cannot be inſtrumental to take away any mans Life, that he did it for his Fee being a Councel<g ref="char:EOLhyphen"/>lour, that he did not doe it Magiſterially but Miniſteri<g ref="char:EOLhyphen"/>ally; and though he did not act by a legal Authority, yet he hoped that he not exceeding their Order, it might bear him out: and therefore ſeeing there was not ſuch an Evidence as might clear it as the Sun at noon day, that did ſee him ſign that Charge of High Treaſon a<g ref="char:EOLhyphen"/>gainſt the King whether they did believe that he had ſuch a trayterous intention as in the Indictment was mentioned.</p>
+            <p>
+               <pb n="7" facs="tcp:173093:4"/>After it was anſwered by the King's Council, That Mr. <hi>Cook</hi> had ſpoken much like a Lawyer, That it was ſtrange that he that knew the Law ſo much ſhould tranſ<g ref="char:EOLhyphen"/>greſſe ſo much: He was no doubt long enough in con<g ref="char:EOLhyphen"/>triving the Death of the King; for that he oftentimes interrupted Him, &amp; made long Speeches to that purpoſe; which ſhewes, <hi>That out of the multitude of the thoughts of the heart the mouth ſpeaketh.</hi> He demands juſtice and preſt the Murther; and whether when he ordered the Clerk to Record that wicked Charge he did not ima<g ref="char:EOLhyphen"/>gine the Death of the King; he was one that did Aſſem<g ref="char:EOLhyphen"/>ble, meet and conſult with that wicked Council: there can be no acceſſaries in Treaſons; for if he be guilty in any part, he is guilty of the whole.</p>
+            <p>And whereas he ſays what he did was but for his Fee, is as much as to ſay, That no Councellor can be guilty of High Treaſon; and that if a Councellour give advice to kill a Man he ſhall be excuſed.</p>
+            <p>He exhibits this charge againſt the King in the Name of the people of <hi>England,</hi> of which Gentlemen of the Jury you are part: therefore look to it, if you own the thing, you juſtifie what he ſayes. But I hope you ſtand here to tell all the World that the people of <hi>England</hi> had no hand in it.</p>
+            <p>It was not enough that he exhibits the Charge, but he aggravates it with all the circumſtances imagina<g ref="char:EOLhyphen"/>ble; he preſſes it, he is angry at delays, he would have things taken <hi>pro Confeſſo:</hi> he pretends to be a ſervant for the people of <hi>England,</hi> and when he meets his old ac<g ref="char:EOLhyphen"/>quaintance, he tells them that the King muſt die and Monarchy with him: and I hope that both You and We are bound to vindicate the Commons of <hi>England</hi> from that horrid Murther.</p>
+            <p>Gentlemen, every ſtep and gradation in this ſad Tra<g ref="char:EOLhyphen"/>gedy
+<pb n="8" facs="tcp:173093:5"/>is Treaſon: the very Act of drawing the Charge was Treaſon; the appearing in the Court was Treaſon; the coming into <hi>Weſtminſter-Hall</hi> was Treaſon, and all preſent in the Hall (except the ſad Spectators) were guilty of Treaſon.</p>
+            <p>He ſayes he did it for his Fee, and ſo Gentlemen did <hi>Judas;</hi> it was a <hi>Judas</hi> his Fee of thirty Pieces of Silver which made that Wretch go forth and hang himſelf. A Councellour muſt keep within the compaſſe of the Law as well as other people: There was never ſuch a thing as a High Court of Juſtice known; a High Court, it was a Shambles rather ſet up onely for the Butchering of his Majeſty.</p>
+            <p>For Mr. <hi>Cook</hi>'s knowing of ſuch a Paper which calls the King a Murtherer, and promoting it, ſign<g ref="char:EOLhyphen"/>ing it and bringing it into that Aſſembly, ſhews clearly, that you had a Deſign of taking away the Life of the King. And truly my Lord, ſince he ſays he did the King a courteſie in demanding Juſtice againſt Him; I hope he will think it no unkindneſſe in me if I demand Juſtice againſt him.</p>
+            <p>And ſince he ſaid that the KING muſt die and MONARCHY with Him, and conſidering all the other <hi>CIRC<g ref="char:V">Ʋ</g>MSTANCES</hi> it cannot be con<g ref="char:EOLhyphen"/>ceived but that his demanding Juſtice againſt the KING muſt intend the giving Sentence for his Death.</p>
+            <p>He ſayes he demanded Juſtice, and ſo did they that Spit in His Face; and he demanded Judgement, ſaying, <hi>The bloud that had been ſpilt cryed for it.</hi>
+            </p>
+            <p>After all which, having no more to ſay, the JURY without going forth found him Guilty, and accordingly Sentence to be Hang'd, Drawn and Quarter'd was pro<g ref="char:EOLhyphen"/>nounced againſt him.</p>
+            <p>
+               <pb n="9" facs="tcp:173093:5"/>After Mr. <hi>Cook</hi> was tuken from the Bar, Mr. <hi>Hugh Peters</hi> the grand Impoſter of the Nation, the General of all fomented miſchief, and the abuſer of the word of God, maker of malicious interpretations, thereupon to animate the people againſt his Majeſtie; was brought to anſwer ac<g ref="char:EOLhyphen"/>cording to Law for ſuch his aforoſaid miſcheivious Trayterous, and abominable practices.</p>
+            <p>The Jury being ſworn, and ſilence command<g ref="char:EOLhyphen"/>ed, the Indictment was read, after which the Kings Counſel ſtood up, and ſpake to the follow<g ref="char:EOLhyphen"/>ing effect.</p>
+            <p>
+               <hi>Gentlemen the Priſoner at the Bar, hath been Indicted for aiding, aſſiſting, abetting, councelling and compaſſing the death of the King; We have evi<g ref="char:EOLhyphen"/>dence againſt the Priſoner to be a principle Actor in that ſad tragedy, next to him that God hath taken to his own judgment. I ſay,</hi> my Lords, <hi>he was the principle actor for procuring the Souldiery to be</hi> aſſiſting thereunto, he makes uſe of <hi>his Profeſſion for that purpoſe, for whereas he ſhould have been the Miniſter of peace, he makes himſelf the Trumpeter of Treaſon, to the deſtruction of the King, he Preach<g ref="char:EOLhyphen"/>ed many Sermans, prepareing the Souldiery for his death, compared the King to</hi> Barrabas, <hi>he was Inſtrumenial for procuring a High Court of Juſtice to be erected, appointed where and in what place it ſhould be proclaimed, way inſtrumental for bringing the King upon the Stage, before that Mock Court; he encouraged the Souldiers to cry Juſtice, Juſtice; We ſhall ſhew you how at ſeveral times he promoted the Kings Death, and after when they brought him to
+<pb n="10" facs="tcp:173093:6"/>his Tryal, this wretched man ſtood behind him like the Marſhal General, we ſhall prove too much of his activeneſs upon that bloody Stage, which we ſhall leave to the Witneſſes, more fully to declare.</hi>
+            </p>
+            <p>Mr. <hi>Hugh Peters,</hi> had a cloud of Witneſſes to juſtifie this againſt him, but his confident Impu<g ref="char:EOLhyphen"/>dence denyed every thing objected againſt him, though many things were not onely proved by the Journal books of the Rump Parliament, but by ſeveral authentique and credible Witneſ<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>The ſubſtance of all the Witneſſes is contained in the following Relation.</p>
+            <p>That <hi>Hugh Peters</hi> was ſeveral times between <hi>England</hi> and <hi>Holland</hi> to adviſe with them how to bring <hi>England</hi> into a free ſtate.</p>
+            <p>That he ſaid that it <hi>could not be effected unleſs</hi> 150. <hi>were taken out of the Nation,</hi> the ſame witneſs asked him what he meant by 150. <hi>he anſwered, three LLL.</hi> The ſaid Witneſs deſiring to explaine himſelf, he ſaid <hi>that the Nation could not be ſetled till the Lords, the Lawyers, and the</hi> Levites <hi>were taken out of it.</hi>
+            </p>
+            <p>That he did adviſe with <hi>Cromwel</hi> whether there were not a way for the Kingdom to be ſettled without the King, and that it was ſaid between them that there was no other way then to cut off the Kings head; and being asked whether <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> or <hi>Peters</hi> ſpoke the words, he anſwered, That he did not know which, but that was the effect of their conſultation, as Mr. <hi>Peters</hi> himſelf had con<g ref="char:EOLhyphen"/>feſt.</p>
+            <p>
+               <pb n="11" facs="tcp:173093:6"/>That <hi>Hugh Peters</hi> was ſeveral times at meetings with <hi>Oliver Cromwel</hi> and <hi>Henry Ireton</hi> at the ſtar in Colemanſtreet, that he uſed ſometimes to come with along ſword thither, and not to depart till four a clock in the morning.</p>
+            <p>That he marcht in the head of the Soldiery ſeve<g ref="char:EOLhyphen"/>ral times, and when the High Court of Juſtice ſate.</p>
+            <p>That he was very buſie that day the Proclamati<g ref="char:EOLhyphen"/>on was made for the ſaid High Court in the Pallace yard at <hi>Weſtminſter,</hi> and ſaid that that was nothing unleſs it was proclaimed at Cheapſide-croſs and the Old Exchange too.</p>
+            <p>Twat he was in <hi>Weſtminſter-hall</hi> when the High Court of Juſtice ſate, and did encourage the Sol<g ref="char:EOLhyphen"/>diers of Col. <hi>Stubbers</hi> Regiment and others, cry out <hi>Justice, Juſtice,</hi> and that the ſaid Soldiers did cry out ſo accordingly.</p>
+            <p>That he was ſeveral times in conſultation with the Officers of the Army in the painted Chamber about the Kings Trial, and that he was ſeveral times alſo with <hi>Bradſhaw</hi> till two a clock in the morning in the Deanery of <hi>Weſtminſter.</hi>
+            </p>
+            <p>Another Wiſneſsſaid, That he heard Mr. <hi>Peters</hi> ſay, that he was in a conſultation with the Officers about the death of the King, and that he ſhould ſee a bleſſed day very ſuddenly.</p>
+            <p>That he ſaid he could even reverence the High Court of Juſtice, it did ſo much reſemble the tryal of the world, which ſhall be at the laſt day by the Saints.</p>
+            <p>That he ſeldom ſpoke of the King but malici<g ref="char:EOLhyphen"/>ouſly and trayterouſly, calling him Tyrant, Mur<g ref="char:EOLhyphen"/>therer
+<pb n="12" facs="tcp:173093:7"/>of his people, <hi>&amp;c.</hi> And further that <hi>Hugh Peters</hi> ſaid he was appointed one day to preach be<g ref="char:EOLhyphen"/>fore the King, but the wretch would not hear him, meaning the King.</p>
+            <p>That he was upon the Scaffold that morning that the King was beheaded, and was ordering and pre<g ref="char:EOLhyphen"/>paring things for that purpoſe.</p>
+            <p>That he carrying on the work of prayer, as they called it, a moneth before the King was murthered, and being ordered to preach in the Painted Cham<g ref="char:EOLhyphen"/>ber uſed theſe words.</p>
+            <p>
+               <hi>Lord what a do there is to bring this great man to his tryal, and yet what a mercy is that this great City falls down before us, He will bring us all into blood again, if we do not take away his.</hi>
+            </p>
+            <p>That in a Sermon preached at St. <hi>Margarets in Weſtminſter</hi> his whole drift was to prepare the peo<g ref="char:EOLhyphen"/>ple for the murther of the King, calling him Ty<g ref="char:EOLhyphen"/>rant, a Murtherer of his people, a Traytor, <hi>&amp;c.</hi> and ſaid, Good people of the Nation the power is in you, calling the King that <hi>Barabas.</hi>
+            </p>
+            <p>Here Mr. <hi>Peters,</hi> as in all the reſt, out-faced and denied all.</p>
+            <p>The Council here ſaid, That after he had thus prepared the buſineſs and brought things to his purpoſe, the firſt Sunday after the King was brought to the Bar, being 21 <hi>January,</hi> 1648. He preached before <hi>Cromwel</hi> and others at Whitehal upon this Text, <hi>Pſal.</hi> 49. the latter end.</p>
+            <p>
+               <hi>To binde their Kings in chains, and their Nobles in fetters of iron; this honor have all the Saints, praiſe ye the Lord.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:173093:7"/>And that he ſaid at that time, bleſſed be the Lord, the lower houſe is now purged, &amp;c. The upper houſe will fall down ſuddenly, in the ſame Sermon calling his Majeſty (that wretch) very often.</p>
+            <p>And at another time Preached upon a Text, <hi>Iſai.</hi> 14.18, 19, 20. <hi>verſes.</hi>
+            </p>
+            <p>
+               <hi>All the Kings of the Nations, even all of them lie in glorie, every own in his own houſe. But thou art caſt out of thy grave, like an abominable branch, and as the rayment of thoſe that are ſlain, thruſt thorow with a ſword, that go down to the ſtones of the pit, as a carcaſe is troden under feet. Thou ſhalt not be joyned with them in burial, becauſe thou haſt deſtroy<g ref="char:EOLhyphen"/>ed thy land, and ſlain thy people, the ſeed of evil doers ſhall never be renowned.</hi> At the top of the Margent in the Bible, being the note to find the Chapter, is writ the (Tyrants fall) where he in<g ref="char:EOLhyphen"/>deavoured to make a parallel between the King of <hi>Babylon,</hi> and the King of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Another witneſs being ſworn ſaid, That <hi>Hugh Peters</hi> was often among the councel of Officers at <hi>Winſor,</hi> That he uſed to be with them late at night when the Kings death was contrived, That the Gentleman of the houſe ſaying grace one day where he dined, and giving thanks, was about to pray after the uſual form, <hi>God ſave the King, &amp;c.</hi> and he ſaid, God ſave the King, and deliver him out of the hands of all his Enemies; but <hi>Hugh Peters</hi> ſtarted up of a ſudden, and ſaid, Hold Gen<g ref="char:EOLhyphen"/>tlemen
+<pb n="14" facs="tcp:173093:8"/>your Idol ſhall not ſtand long.</p>
+            <p>That at another time it was ſaid by <hi>Hugh Peters,</hi> That if they could but keep the Army but one ſeven years longer, they need not care for the King and all his Poſterity.</p>
+            <p>That he ſaid, That day the <hi>High Court of Iuſtice</hi> ſate was the happieſt day that ever <hi>England</hi> ſaw, That it was a day that many of the Saints of God had been praying for theſe many yeers, and that he could freely ſay, <hi>Now Lord letteſt thou thy ſer<g ref="char:EOLhyphen"/>vant depart in peace according to thy word, for mine eyes have ſeen thy ſalvation,</hi> This is the glorious be<g ref="char:EOLhyphen"/>ginning of the work, <hi>&amp;c.</hi>
+            </p>
+            <p>After many things paſſing in the Court, Mr <hi>Hugh</hi> could not ſay any thing for himſelf, but plead ſeveral good offices he had done for the Kings Friends; to which the Judge anſwered, That he was not brought thither for any of his good deeds.</p>
+            <p>At laſt the Kings Councel told the Jury, in ſhort, That he had been a grand abuſer of the people by his ſeditious Doctrine, That he had been a grand contriver of the Kings death, That his death would preach better then his life, and that ſince he had put himſelf upon his Country, and the Country had put themſelves upon them, that they ſhould free their Country from that in<g ref="char:EOLhyphen"/>nocent blood: whereupon the Jury without going forth found him guilty.</p>
+            <p>Sentence paſſed on him accordingly to be hang'd, drawn, and quartred</p>
+            <p>And according to the Sentence they were both execu<g ref="char:EOLhyphen"/>ted at <hi>Chaiing-croſs</hi> this 16. <hi>Octob.</hi> 1660.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173093:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
